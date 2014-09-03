@@ -59,8 +59,8 @@ Buildings: Buildings are worth points only if you have resources sufficient to b
 In this example, the player can build the Basilica di San Lorenzo, with one Iron left over which can be used for another building.
 
 <img src="examples/c_2VP_firenze.svg.png" height="250px">
-<img src="examples/c_army_verona.svg.png" height="250px">
 <img src="examples/c_wood_pisa.svg.png" height="250px">
+<img src="examples/c_army_verona.svg.png" height="250px">
 
 Counties: Counties are worth points, or produce resources, or contribute to your military.
 

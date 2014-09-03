@@ -51,10 +51,10 @@ Resources: Resources are used to build buildings.
 
 Buildings: Buildings are worth points only if you have resources sufficient to build them. For example, to build the Basilica di San Lorenzo, you need resource cards totaling two wood, one brick, and two stone. If you have these resources and the building card, you score 12 points. The resources used to build one building cannot be used to build another, but if you use only some of the resources on the resource card to build one building, you can use the remaining resources to build another.
 
-<img src="examples/b_12vp_lorenzo.svg.png" height="250px">
-<img src="examples/r_2_wood.svg.png" height="250px">
-<img src="examples/r_brick_stone.svg.png" height="250px">
-<img src="examples/r_iron_stone.svg.png" height="250px">
+<img src="examples/b_12vp_lorenzo.svg.png" height="200px">
+<img src="examples/r_2_wood.svg.png" height="200px">
+<img src="examples/r_brick_stone.svg.png" height="200px">
+<img src="examples/r_iron_stone.svg.png" height="200px">
 
 In this example, the player can build the Basilica di San Lorenzo, with one Iron left over which can be used on another building.
 
@@ -64,7 +64,7 @@ In this example, the player can build the Basilica di San Lorenzo, with one Iron
 
 Counties: Counties are worth points, or produce resources, or contribute to your military.
 
-<img src="examples/b_pistoia.svg.png" height="250px">
+<img src="examples/bi_pistoia.svg.png" height="250px">
 
 Bishoprics: Each bishopric is worth one point for each bishopric you have. One bishopric is worth one point, two bishoprics are worth two each (for a total of four), etc.
 
@@ -80,7 +80,7 @@ Armies: At the end of the game, the player with the strongest army (the most swo
 
 Papal favours: Papal favours are only worth points if they are traded away and the giver of the favor is elected Pope. For example, if at the end of the game Sforza has two 5-point favours from Borgia and one from Carafa, Borgia has one of his own favours, and Borgia is elected Pope, Sforza scores 10 points (from Borgia's favors, but not Carafa's), and Borgia scores no points (because he cannot use his own favours).
 
-<img src="examples/am_french_dominion" height="250px">
+<img src="examples/am_french_dominion.svg.png" height="250px">
 
 Ambitions: Ambitions are worth ten points if the player can fulfill their conditions. For example, to score French Dominion, the player must have the most counties and bishoprics in France (i.e. with France shown in the lower-left).
 

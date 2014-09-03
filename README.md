@@ -38,19 +38,19 @@ Card types
 
 <img src="examples/v_borgia.svg.png" height="250px">
 
-*Vote*: You need votes to become Pope.
+__Vote__: You need votes to become Pope.
 
 <img src="examples/g_3_ducats.svg.png" height="250px">
 
-*Gold*: Gold cards are worth points.
+__Gold__: Gold cards are worth points.
 
 <img src="examples/r_brick_stone.svg.png" height="250px">
 
-*Resources*: Resources are used to build buildings. 
+__Resources__: Resources are used to build buildings. 
 
 <img src="examples/b_12vp_lorenzo.svg.png" height="250px">
 
-*Buildings*: Buildings are worth points only if you have resources sufficient to build them. For example, to build the Basilica di San Lorenzo, you need resource cards totaling two wood, one brick, and two stone. If you have these resources and the building card, you score 12 points. The resources used to build one building cannot be used to build another, but if you use only some of the resources on a resource card to build one building, you can use the remaining resources to build another.
+__Buildings__: Buildings are worth points only if you have resources sufficient to build them. For example, to build the Basilica di San Lorenzo, you need resource cards totaling two wood, one brick, and two stone. If you have these resources and the building card, you score 12 points. The resources used to build one building cannot be used to build another, but if you use only some of the resources on a resource card to build one building, you can use the remaining resources to build another.
 
 <img src="examples/b_12vp_lorenzo.svg.png" height="200px">
 <img src="examples/r_2_wood.svg.png" height="200px">
@@ -63,31 +63,31 @@ In this example, the player can build the Basilica di San Lorenzo, with one Iron
 <img src="examples/c_wood_pisa.svg.png" height="250px">
 <img src="examples/c_army_verona.svg.png" height="250px">
 
-*Counties*: Counties are worth points, or produce resources, or contribute to your military. A resource present on a county is equivalent to a resource present on a resource card.
+__Counties__: Counties are worth points, or produce resources, or contribute to your military. A resource present on a county is equivalent to a resource present on a resource card.
 
 <img src="examples/bi_pistoia.svg.png" height="250px">
 
-*Bishoprics*: Each bishopric is worth one point for each bishopric you have. One bishopric is worth one point, two bishoprics are worth two each (for a total of four), etc.
+__Bishoprics__: Each bishopric is worth one point for each bishopric you have. One bishopric is worth one point, two bishoprics are worth two each (for a total of four), etc.
 
 <img src="examples/d_florence.svg.png" height="250px">
 
-*Duchies*: A duchy scores points if you have counties and bishoprics located in that duchy. For example, if you had the Duchy of Florence and the counties of Firenze and Lucca, the duchy would be worth four points. If you had the duchy, all three counties, and the bishopric, the duchy would be worth 12 points (and the counties and bishopric would be worth additional points).
+__Duchies__: A duchy scores points if you have counties and bishoprics located in that duchy. For example, if you had the Duchy of Florence and the counties of Firenze and Lucca, the duchy would be worth four points. If you had the duchy, all three counties, and the bishopric, the duchy would be worth 12 points (and the counties and bishopric would be worth additional points).
 
 <img src="examples/ar_3_hawkwood.svg.png" height="250px">
 
-*Mercenaries*: At the end of the game, the player with the strongest army (the most total swords, including from counties) gets to take their choice of card from the spoils of war. Then, the player with the second strongest army takes a card, and so on. However, the player with the weakest army does not get any spoils, instead the player with the strongest army takes the last remaining card. If there is a tie, the Pope wins the tie, or if neither player is the Pope, the player nearest the Pope in clockwise order wins the tie.
+__Mercenaries__: At the end of the game, the player with the strongest army (the most total swords, including from counties) gets to take their choice of card from the spoils of war. Then, the player with the second strongest army takes a card, and so on. However, the player with the weakest army does not get any spoils, instead the player with the strongest army takes the last remaining card. If there is a tie, the Pope wins the tie, or if neither player is the Pope, the player nearest the Pope in clockwise order wins the tie.
 
 <img src="examples/f_borgia_5VP.svg.png" height="250px">
 
-*Papal favours*: Papal favours are only worth points if they are traded away and the giver of the favor is elected Pope. For example, if at the end of the game Sforza has two 5-point favours from Borgia and one from Carafa, Borgia has one of his own favours, and Borgia is elected Pope, Sforza scores 10 points (from Borgia's favors, but not Carafa's), and Borgia scores no points (because he cannot use his own favours).
+__Papal favours__: Papal favours are only worth points if they are traded away and the giver of the favor is elected Pope. For example, if at the end of the game Sforza has two 5-point favours from Borgia and one from Carafa, Borgia has one of his own favours, and Borgia is elected Pope, Sforza scores 10 points (from Borgia's favors, but not Carafa's), and Borgia scores no points (because he cannot use his own favours).
 
 <img src="examples/am_french_dominion.svg.png" height="250px">
 
-*Ambitions*: Ambitions are worth ten points if the player can fulfill their conditions. For example, to score French Dominion, the player must have the most counties and bishoprics in France (i.e. with France shown in the lower-left). Ambitions cannot be traded.
+__Ambitions__: Ambitions are worth ten points if the player can fulfill their conditions. For example, to score French Dominion, the player must have the most counties and bishoprics in France (i.e. with France shown in the lower-left). Ambitions cannot be traded.
 
 <img src="examples/pope.svg.png" height="250px">
 
-*The Papacy*: The papacy is worth 25 points.
+__The Papacy__: The papacy is worth 25 points.
 
 Game End
 --------

@@ -35,7 +35,7 @@ Apart from the above, players cannot play cards until the end of the game; all c
 Card types
 ----------
 
-![Borgia vote card](andrewebert.github.io/examples/v_borgia.svg.png)
+![Borgia vote card](//andrewebert.github.io/examples/v_borgia.svg.png)
 
 Vote: You need votes to become Pope.
 

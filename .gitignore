@@ -1,0 +1,4 @@
+tmp/cards/*.png
+tmp/o_cards/*.png
+tmp/*.png
+.~lock*

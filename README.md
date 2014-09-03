@@ -56,11 +56,11 @@ Buildings: Buildings are worth points only if you have resources sufficient to b
 <img src="examples/r_brick_stone.svg.png" height="200px">
 <img src="examples/r_iron_stone.svg.png" height="200px">
 
-In this example, the player can build the Basilica di San Lorenzo, with one Iron left over which can be used on another building.
+In this example, the player can build the Basilica di San Lorenzo, with one Iron left over which can be used for another building.
 
 <img src="examples/c_2VP_firenze.svg.png" height="250px">
 <img src="examples/c_army_verona.svg.png" height="250px">
-<img src="examples/c_brick_pisa.svg.png" height="250px">
+<img src="examples/c_wood_pisa.svg.png" height="250px">
 
 Counties: Counties are worth points, or produce resources, or contribute to your military.
 
@@ -83,6 +83,10 @@ Papal favours: Papal favours are only worth points if they are traded away and t
 <img src="examples/am_french_dominion.svg.png" height="250px">
 
 Ambitions: Ambitions are worth ten points if the player can fulfill their conditions. For example, to score French Dominion, the player must have the most counties and bishoprics in France (i.e. with France shown in the lower-left).
+
+<img src="examples/pope.svg.png" height="250px">
+
+The Papacy: The papacy is worth 25 points.
 
 Game End
 --------

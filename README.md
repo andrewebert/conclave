@@ -39,11 +39,11 @@ Card types
 
 Vote: You need votes to become Pope.
 
-![3000 ducats](andrewebert.github.io/examples/g_3_ducats.svg.png)
+![3000 ducats](http://andrewebert.github.io/examples/g_3_ducats.svg.png)
 
 Gold: Gold cards are worth points.
 
-![Brick and stone](andrewebert.github.io/examples/g_3_ducats.svg.png)
+![Brick and stone](//andrewebert.github.io/examples/g_3_ducats.svg.png)
 
 Resources: Resources are used to build buildings. 
 

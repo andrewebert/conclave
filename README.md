@@ -51,7 +51,7 @@ Resources: Resources are used to build buildings.
 
 Buildings: Buildings are worth points only if you have resources sufficient to build them. For example, to build the Basilica di San Lorenzo, you need resource cards totaling two wood, one brick, and two stone. If you have these resources and the building card, you score 12 points. The resources used to build one building cannot be used to build another, but if you use only some of the resources on the resource card to build one building, you can use the remaining resources to build another.
 
-![3000 ducats](andrewebert.github.io/examples/g_3_ducats.svg.png)
+![3000 ducats](examples/g_3_ducats.svg.png)
 
 In this example, the player can build the Basilica di San Lorenzo, with one Iron left over which can be used on another building.
 
